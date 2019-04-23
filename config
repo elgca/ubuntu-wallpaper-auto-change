@@ -1,0 +1,11 @@
+[Path]
+download = /home/katalon/Pictures/lovewallpaper
+
+[Update]
+time = 1473349764
+
+[Slide]
+freeze = 1
+static = 55.0
+transition = 1.5
+
